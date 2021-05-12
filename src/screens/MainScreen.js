@@ -5,7 +5,7 @@ import BoardComponent from '../components/BoardComponent';
 const MainScreen=()=>{
     return (
         <View style={styles.board}>
-            <Text>Score: 0</Text>
+
             <BoardComponent/>
         </View>
     );
